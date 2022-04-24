@@ -1,0 +1,17 @@
+.img-circle {
+max-height: 100px;
+max-width: 150px;
+border-radius: 10px;
+border-width: 5px;
+
+}
+
+body{
+background-image: url("https://th.bing.com/th/id/R.d13b97fd10a822d54b332b8994fcd64d?rik=B9dHMnk3cv884g&riu=http%3a%2f%2fgetwallpapers.com%2fwallpaper%2ffull%2f7%2f0%2f4%2f491490.jpg&ehk=ves8u6T4pVRJZge9J4H%2bm3ZwKqfKr8WBHf%2b7MZ3043k%3d&risl=&pid=ImgRaw&r=0");
+
+}
+
+
+.white-text {
+	color: whitesmoke;
+}
